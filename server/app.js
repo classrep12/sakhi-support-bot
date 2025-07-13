@@ -13,6 +13,7 @@ app.use(bodyParser.json());  // ✅ move this UP before routes!
 
 app.use('/api/chat', chatRoutes);
 app.use('/api/story', storyRoutes);
+
 app.get('/', (req, res) => {
   res.send('Sakhi backend is live!');
 });
