@@ -15,7 +15,7 @@ function ChatWindow() {
     setMessages((prevMessages) => [...prevMessages, userMessage]);
 
     try {
-      const response = await axios.post('http://localhost:5000/api/chat', {
+      const response = await axios.post('https://sakhi-support-bot-2.onrender.com/api/chat', {
         message: input
       });
 
