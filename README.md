@@ -61,8 +61,5 @@ Sakhi was created as a hackathon project to help women in vulnerable situations 
 
 ---
 
-## 📬 Contact
 
-**Harshita Tiwari**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your-email@example.com)
 ```
