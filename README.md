@@ -45,13 +45,15 @@ cd ../server
 npm install
 node index.js
 
-💡 Future Enhancements
+---
+
+##💡 Future Enhancements
 🌍 Geolocation-based women helpline detection
 
 🌐 Hindi language toggle
 
 📱 Full mobile responsiveness
 
-🙋‍♀️ Made With Purpose
+##🙋‍♀️ Made With Purpose
 Sakhi was created as a hackathon project to help women in vulnerable situations access emotional, educational, and community-based support in a safe and culturally sensitive manner.
 
