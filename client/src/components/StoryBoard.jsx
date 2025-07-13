@@ -8,7 +8,7 @@ function StoryBoard() {
   const [message, setMessage] = useState('');
 
   const fetchStories = async () => {
-    const res = await axios.get('http://localhost:5000/api/story/all');
+    const res = await axios.get('https://sakhi-support-bot-2.onrender.com/api/story/all');
     setStories(res.data);
   };
 
@@ -17,7 +17,7 @@ function StoryBoard() {
     if (!text.trim()) return;
 
     try {
-      const res = await axios.post('http://localhost:5000/api/story/submit', { text });
+      const res = await axios.post('https://sakhi-support-bot-2.onrender.com/api/story/submit', { text });
       setMessage(res.data.message);
       setText('');
       fetchStories();
