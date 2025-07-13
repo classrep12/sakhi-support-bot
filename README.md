@@ -44,16 +44,25 @@ npm start
 cd ../server
 npm install
 node index.js
+```
+---
+## 💡 Future Enhancements
+
+- 🌍 Geolocation-based women helpline detection
+- 🌐 Hindi language toggle
+- 📱 Full mobile responsiveness
+- 🔐 User login and account system for personalized experience
 
 ---
 
-##💡 Future Enhancements
-🌍 Geolocation-based women helpline detection
+## 🙋‍♀️ Made With Purpose
 
-🌐 Hindi language toggle
-
-📱 Full mobile responsiveness
-
-##🙋‍♀️ Made With Purpose
 Sakhi was created as a hackathon project to help women in vulnerable situations access emotional, educational, and community-based support in a safe and culturally sensitive manner.
 
+---
+
+## 📬 Contact
+
+**Harshita Tiwari**  
+[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your-email@example.com)
+```
